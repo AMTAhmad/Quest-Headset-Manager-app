@@ -1,8 +1,8 @@
 # Quest Manager
 
-A menu-driven Windows Batch tool for managing one or many Meta Quest headsets from a PC using ADB and scrcpy. No typing of ADB commands is required; everything is done through numbered text menus.
+A CMD-driven Windows Batch tool for managing one or many Meta Quest headsets from a PC using ADB and scrcpy. No typing of ADB commands is required; everything is done through numbered text menus.
 
-> ## ⚠️ Disclaimer
+> ## Disclaimer
 >
 > **This project was created with the help of AI (AI-generated code).** It is **not complete**, may contain bugs, and has only been tested on a limited setup (a single Meta Quest 3S). Features such as APK installation and multi-headset workflows have **not been fully tested yet**.
 >
