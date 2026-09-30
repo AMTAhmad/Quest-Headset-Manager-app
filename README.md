@@ -4,7 +4,7 @@ A CMD-driven Windows Batch tool for managing one or many Meta Quest headsets fro
 
 > ## Disclaimer
 >
-> **This project was created with the help of AI (AI-generated code).** It is **not complete**, may contain bugs, and has only been tested on a limited setup (a single Meta Quest 3S). Features such as APK installation and multi-headset workflows have **not been fully tested yet**.
+> **This project was created with the help of AI (AI-generated code).** It is **not complete**, it contains a lot of bugs, and has only been tested on a limited setup. Features such as APK installation and multi-headset workflows have **not been fully tested yet**.
 >
 > Use it at your own risk. Review the scripts before running them, and keep backups of your files. The author provides no warranty of any kind. This project is not affiliated with, endorsed by, or sponsored by Meta, Google, or the scrcpy project.
 
